@@ -1,5 +1,6 @@
 
 public class Door {
+	
 
 	public void openDoor(){
 		System.out.println("Door opening");
