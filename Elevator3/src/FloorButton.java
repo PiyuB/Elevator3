@@ -1,4 +1,4 @@
 
-public class FloorButton {
+public class FloorButton extends Button {
 
 }

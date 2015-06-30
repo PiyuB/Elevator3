@@ -1,4 +1,4 @@
 
-public class DoorButton {
+public class DoorButton extends Button{
 
 }
